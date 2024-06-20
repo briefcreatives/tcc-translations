@@ -420,46 +420,46 @@ var linguJSON = {
       "target_de": "Wir können Ihre Form von A bis Z erstellen. Unser Team kann Ihnen zuerst ein Design anbieten, das Ihren Erwartungen entspricht und Technologie und Technik kombiniert."
     },
     {
-      "source": "Investigação",
-      "target_en": "Research",
-      "target_fr": "Recherche",
-      "target_es": "Investigación",
-      "target_de": "Forschung"
+      "source": "1 - Investigação",
+      "target_en": "1 - Research",
+      "target_fr": "1 - Recherche",
+      "target_es": "1 - Investigación",
+      "target_de": "1 - Forschung"
     },
     {
-      "source": "Conceito de design",
-      "target_en": "Design concept",
-      "target_fr": "Concept de design",
-      "target_es": "Concepto de diseño",
-      "target_de": "Designkonzept"
+      "source": "2 - Conceito de design",
+      "target_en": "2 - Design concept",
+      "target_fr": "2 - Concept de design",
+      "target_es": "2 - Concepto de diseño",
+      "target_de": "2 - Designkonzept"
     },
     {
-      "source": "Desenvolvimento do projeto",
-      "target_en": "Project development",
-      "target_fr": "Développement de projet",
-      "target_es": "Desarrollo de proyecto",
-      "target_de": "Projektentwicklung"
+      "source": "3 - Desenvolvimento do projeto",
+      "target_en": "3 - Project development",
+      "target_fr": "3 - Développement de projet",
+      "target_es": "3 - Desarrollo de proyecto",
+      "target_de": "3 - Projektentwicklung"
     },
     {
-      "source": "Engenharia",
-      "target_en": "Engineering",
-      "target_fr": "Ingénierie",
-      "target_es": "Ingeniería",
-      "target_de": "Ingenieurwesen"
+      "source": "4 - Engenharia",
+      "target_en": "4 - Engineering",
+      "target_fr": "4 - Ingénierie",
+      "target_es": "4 - Ingeniería",
+      "target_de": "4 - Ingenieurwesen"
     },
     {
-      "source": "Prototipagem",
-      "target_en": "Prototyping",
-      "target_fr": "Prototypage",
-      "target_es": "Prototipado",
-      "target_de": "Prototypenbau"
+      "source": "5 - Prototipagem",
+      "target_en": "5 - Prototyping",
+      "target_fr": "5 - Prototypage",
+      "target_es": "5 - Prototipado",
+      "target_de": "5 - Prototypenbau"
     },
     {
-      "source": "Pequenas séries",
-      "target_en": "Small series",
-      "target_fr": "Petites séries",
-      "target_es": "Pequeñas series",
-      "target_de": "Kleinserien"
+      "source": "6 - Pequenas séries",
+      "target_en": "6 - Small series",
+      "target_fr": "6 - Petites séries",
+      "target_es": "6 - Pequeñas series",
+      "target_de": "6 - Kleinserien"
     },
     {
       "source": "Processo de Desenvolvimento de um novo produto",
@@ -509,6 +509,13 @@ var linguJSON = {
       "target_fr": "Ce processus efficace aide à identifier les besoins d'amélioration et à les corriger en peu de temps afin de réduire le délai de livraison.",
       "target_es": "Este proceso eficiente ayuda a identificar las necesidades de mejora y a corregirlas en un corto período de tiempo para reducir el plazo de entrega.",
       "target_de": "Dieser effiziente Prozess hilft, Verbesserungsbedarfe zu erkennen und sie in kurzer Zeit zu beheben, um die Lieferzeit zu verkürzen."
+    },
+    {
+      "source": "Produção Rápida",
+      "target_en": "Rapid Production",
+      "target_fr": "Production Rapide",
+      "target_es": "Producción Rápida",
+      "target_de": "Schnelle Produktion"
     },
     {
       "source": "O fabrico de baixo volume é adequado para empresas que não necessitam de grandes quantidades. Garante uma entrega rápida e uma boa relação qualidade/preço. Esta etapa económica ajuda a evitar problemas futuros e valida todos os aspectos do produto final.",
