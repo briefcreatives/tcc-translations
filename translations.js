@@ -420,46 +420,46 @@ var linguJSON = {
       "target_de": "Wir können Ihre Form von A bis Z erstellen. Unser Team kann Ihnen zuerst ein Design anbieten, das Ihren Erwartungen entspricht und Technologie und Technik kombiniert."
     },
     {
-      "source": "1 - Investigação",
+      "source": "1 - Research",
       "target_en": "1 - Research",
       "target_fr": "1 - Recherche",
       "target_es": "1 - Investigación",
       "target_de": "1 - Forschung"
     },
     {
-      "source": "2 - Conceito de design",
-      "target_en": "2 - Design concept",
+      "source": "2 – Conceito de design",
+      "target_en": "2 - Design Concept",
       "target_fr": "2 - Concept de design",
       "target_es": "2 - Concepto de diseño",
       "target_de": "2 - Designkonzept"
     },
     {
-      "source": "3 - Desenvolvimento do projeto",
-      "target_en": "3 - Project development",
-      "target_fr": "3 - Développement de projet",
-      "target_es": "3 - Desarrollo de proyecto",
+      "source": "3 – Desenvolvimento do projeto",
+      "target_en": "3 - Project Development",
+      "target_fr": "3 - Développement du projet",
+      "target_es": "3 - Desarrollo del proyecto",
       "target_de": "3 - Projektentwicklung"
     },
     {
-      "source": "4 - Engenharia",
+      "source": "4 – Engenharia",
       "target_en": "4 - Engineering",
       "target_fr": "4 - Ingénierie",
       "target_es": "4 - Ingeniería",
       "target_de": "4 - Ingenieurwesen"
     },
     {
-      "source": "5 - Prototipagem",
+      "source": "5 – Prototipagem",
       "target_en": "5 - Prototyping",
       "target_fr": "5 - Prototypage",
       "target_es": "5 - Prototipado",
       "target_de": "5 - Prototypenbau"
     },
     {
-      "source": "6 - Pequenas séries",
-      "target_en": "6 - Small series",
+      "source": "6 – Pequenas séries",
+      "target_en": "6 - Small Series",
       "target_fr": "6 - Petites séries",
       "target_es": "6 - Pequeñas series",
-      "target_de": "6 - Kleinserien"
+      "target_de": "6 - Kleine Serien"
     },
     {
       "source": "Processo de Desenvolvimento de um novo produto",
