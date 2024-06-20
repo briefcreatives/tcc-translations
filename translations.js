@@ -256,11 +256,11 @@ var linguJSON = {
 
     //INSTITUCIONAL
     {
-      "source": "Na vanguarda da precisão, a moldar o futuro da indústria com excelência.",
-      "target_en": "At the forefront of precision, shaping the future of the industry with excellence.",
-      "target_fr": "À la pointe de la précision, façonnant l'avenir de l'industrie avec excellence.",
-      "target_es": "A la vanguardia de la precisión, moldeando el futuro de la industria con excelencia.",
-      "target_de": "An der Spitze der Präzision, formt die Zukunft der Industrie mit Exzellenz."
+      "source": "Na vanguarda da precisão, a moldar o futuro da indústria com <strong>excelência</strong>.",
+      "target_en": "At the forefront of precision, shaping the future of the industry with <strong>excellence</strong>.",
+      "target_fr": "À la pointe de la précision, façonnant l'avenir de l'industrie avec <strong>excellence</strong>.",
+      "target_es": "En la vanguardia de la precisión, dando forma al futuro de la industria con <strong>excelencia</strong>.",
+      "target_de": "An der Spitze der Präzision, formt die Zukunft der Industrie mit <strong>Exzellenz</strong>."
     },
     {
       "source": "Na TCC encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas a etapas de fabricação.",
