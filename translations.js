@@ -732,17 +732,122 @@ var linguJSON = {
       target_de: "Gasunterstützter Spritzguss",
     },
     {
-      "source": "Instalações e Tecnologia dedicadas",
-      "target_en": "Dedicated Facilities and Technology",
-      "target_es": "Instalaciones y Tecnología dedicadas",
-      "target_de": "Dedizierte Einrichtungen und Technologie"
-  },
-  {
-    "source": "Ferramentas e instalações dedicadas permitem-nos ter experiência em muitas áreas e melhorar a eficiência da nossa produção. Oferecemos soluções eficazes e personalizadas para cada um dos nossos clientes.",
-    "target_en": "Dedicated tools and facilities enable us to gain expertise in various areas and enhance the efficiency of our production. We provide effective and customized solutions for each of our clients.",
-    "target_es": "Las herramientas y las instalaciones dedicadas nos permiten adquirir experiencia en diversas áreas y mejorar la eficiencia de nuestra producción. Ofrecemos soluciones efectivas y personalizadas para cada uno de nuestros clientes.",
-    "target_de": "Dedizierte Werkzeuge und Einrichtungen ermöglichen es uns, Expertise in verschiedenen Bereichen zu erlangen und die Effizienz unserer Produktion zu steigern. Wir bieten effektive und maßgeschneiderte Lösungen für jeden unserer Kunden."
-}
+      source: "Instalações e Tecnologia dedicadas",
+      target_en: "Dedicated Facilities and Technology",
+      target_es: "Instalaciones y Tecnología dedicadas",
+      target_de: "Dedizierte Einrichtungen und Technologie",
+    },
+    {
+      source:
+        "Ferramentas e instalações dedicadas permitem-nos ter experiência em muitas áreas e melhorar a eficiência da nossa produção. Oferecemos soluções eficazes e personalizadas para cada um dos nossos clientes.",
+      target_en:
+        "Dedicated tools and facilities enable us to gain expertise in various areas and enhance the efficiency of our production. We provide effective and customized solutions for each of our clients.",
+      target_es:
+        "Las herramientas y las instalaciones dedicadas nos permiten adquirir experiencia en diversas áreas y mejorar la eficiencia de nuestra producción. Ofrecemos soluciones efectivas y personalizadas para cada uno de nuestros clientes.",
+      target_de:
+        "Dedizierte Werkzeuge und Einrichtungen ermöglichen es uns, Expertise in verschiedenen Bereichen zu erlangen und die Effizienz unserer Produktion zu steigern. Wir bieten effektive und maßgeschneiderte Lösungen für jeden unserer Kunden.",
+    },
 
+    // Injeção de Termoplásticos e Assemblagem
+
+    {
+      source: "Sala Limpa",
+      target_en: "Clean Room",
+      target_es: "Sala Limpia",
+      target_de: "Reinraum",
+    },
+    {
+      source: "ISO 6",
+      target_en: "ISO Class 6",
+      target_es: "Clase ISO 6",
+      target_de: "ISO Klasse 6",
+    },
+    {
+      source:
+        "A nossa sala limpa permite a realização de ensaios num ambiente com muito poucas partículas. Ao atualizar as nossas capacidades com uma sala limpa ISO 6, o nosso objetivo é servir a indústria médica e o fabrico de dispositivos médicos numa base mais consistente e visível.",
+      target_en:
+        "Our clean room allows testing in an environment with very few particles. By upgrading our capabilities with an ISO Class 6 clean room, our goal is to better serve the medical industry and medical device manufacturing on a more consistent and visible basis.",
+      target_es:
+        "Nuestra sala limpia permite realizar pruebas en un ambiente con muy pocas partículas. Al actualizar nuestras capacidades con una sala limpia Clase ISO 6, nuestro objetivo es servir mejor a la industria médica y a la fabricación de dispositivos médicos de manera más consistente y visible.",
+      target_de:
+        "Unser Reinraum ermöglicht Tests in einer Umgebung mit sehr wenigen Partikeln. Durch die Aktualisierung unserer Kapazitäten mit einem Reinraum der ISO Klasse 6 ist unser Ziel, die medizinische Industrie und die Herstellung von medizinischen Geräten auf eine konsistentere und sichtbarere Weise zu bedienen.",
+    },
+    {
+      source: "Normas de Referência",
+      target_en: "Reference Standards",
+      target_es: "Normas de referencia",
+      target_de: "Referenznormen",
+    },
+    {
+      source: "ISO 9001 (em implementação)",
+      target_en: "ISO 9001 (under implementation)",
+      target_es: "ISO 9001 (en implementación)",
+      target_de: "ISO 9001 (in Umsetzung)",
+    },
+    {
+      source: "Tecnologias de Injeção de Termoplásticos",
+      target_en: "Thermoplastic Injection Molding Technologies",
+      target_es: "Tecnologías de Moldeo por Inyección de Termoplásticos",
+      target_de:
+        "Technologien für die Spritzgussverarbeitung von Thermoplasten",
+    },
+    {
+      source: "- Injeção 2K",
+      target_en: "- Two-shot Injection Molding",
+      target_es: "- Moldeo por inyección 2K",
+      target_de: "- Zweikomponenten-Spritzguss",
+    },
+    {
+      source: "- Incertos Metálicos no Molde",
+      target_en: "- Metal Inserts in Mold",
+      target_es: "- Insertos metálicos en molde",
+      target_de: "- Metalleinsätze im Formwerkzeug",
+    },
+    {
+      source: "- Engenharia inversa",
+      target_en: "- Reverse Engineering",
+      target_es: "- Ingeniería inversa",
+      target_de: "- Reverse Engineering",
+    },
+    {
+      source: "- Injeção IMA",
+      target_en: "- In-Mold Assembly",
+      target_es: "- Ensamblaje en molde",
+      target_de: "- In-Mould Assembly",
+    },
+    {
+      source: "- Injeção com assemblagem",
+      target_en: "- Injection with Assembly",
+      target_es: "- Inyección con ensamblaje",
+      target_de: "- Spritzguss mit Montage",
+    },
+    {
+      source: "- Sobremoldagem Gas Assisted Injection",
+      target_en: "- Gas Assisted Injection Molding",
+      target_es: "- Moldeo por inyección asistida con gas",
+      target_de: "- Gasunterstützter Spritzguss",
+    },
+    {
+      source: "As nossas instalações e Equipamentos",
+      target_en: "Our Facilities and Equipment",
+      target_es: "Nuestras instalaciones y equipos",
+      target_de: "Unsere Einrichtungen und Ausrüstungen",
+    },
+    {
+      source:
+        "A nossa oficina está equipada com 6 centros de maquinagem de fresagem CNC, 2 centros de maquinagem EDM de afundamento, 1 centro de maquinagem EDM de fio e máquinas de perfuração e retificação. Estas ferramentas renovadas regularmente garantem a eficácia e a qualidade dos moldes produzidos.",
+      target_en:
+        "Our workshop is equipped with 6 CNC milling machining centers, 2 sinker EDM machining centers, 1 wire EDM machining center, and drilling and grinding machines. These tools are regularly upgraded to ensure the effectiveness and quality of the molds produced.",
+      target_es:
+        "Nuestro taller está equipado con 6 centros de mecanizado fresadora CNC, 2 centros de mecanizado de hundimiento EDM, 1 centro de mecanizado de hilo EDM y máquinas de taladrado y rectificado. Estas herramientas se renuevan regularmente para garantizar la eficacia y la calidad de los moldes producidos.",
+      target_de:
+        "Unsere Werkstatt ist mit 6 CNC-Fräsbearbeitungszentren, 2 Senker-EDM-Bearbeitungszentren, 1 Draht-EDM-Bearbeitungszentrum sowie Bohr- und Schleifmaschinen ausgestattet. Diese Werkzeuge werden regelmäßig aktualisiert, um die Effektivität und Qualität der hergestellten Formen zu gewährleisten.",
+    },
+    {
+      source: "Equipamentos de Metrologia e Controlo de Qualidade",
+      target_en: "Metrology and Quality Control Equipment",
+      target_es: "Equipos de Metrología y Control de Calidad",
+      target_de: "Messtechnik und Qualitätssicherungsausrüstung",
+    },
   ],
 };
