@@ -263,6 +263,13 @@ var linguJSON = {
       "target_de": "An der Spitze der Präzision, formt die Zukunft der Industrie mit <strong>Exzellenz</strong>."
     },
     {
+      "source": "A nossa equipa",
+      "target_en": "Our team",
+      "target_fr": "Notre équipe",
+      "target_es": "Nuestro equipo",
+      "target_de": "Unser Team"
+    },    
+    {
       "source": "Na TCC encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas a etapas de fabricação.",
       "target_en": "At TCC, you will find a technical team composed of experienced designers who, supported by CAD/CAM systems, develop mold projects and are also responsible for monitoring all stages of manufacturing.",
       "target_fr": "Chez TCC, vous trouverez une équipe technique composée de concepteurs expérimentés qui, soutenus par des systèmes CAD/CAM, développent les projets de moules et sont également responsables du suivi de toutes les étapes de fabrication.",
@@ -291,11 +298,11 @@ var linguJSON = {
       "target_de": "Herausforderungen mit Innovation, Präzision und Teamgeist angehen:"
     },
     {
-      "source": "a alma da nossa cultura, a força do nosso mindset.",
-      "target_en": "the soul of our culture, the strength of our mindset.",
-      "target_fr": "l'âme de notre culture, la force de notre état d'esprit.",
-      "target_es": "el alma de nuestra cultura, la fuerza de nuestra mentalidad.",
-      "target_de": "die Seele unserer Kultur, die Stärke unserer Denkweise."
+      "source": "a alma da nossa <strong>cultura</strong>, a força do nosso <strong>mindset</strong>.",
+      "target_en": "the soul of our <strong>culture</strong>, the strength of our <strong>mindset</strong>.",
+      "target_fr": "l'âme de notre <strong>culture</strong>, la force de notre <strong>mindset</strong>.",
+      "target_es": "el alma de nuestra <strong>cultura</strong>, la fuerza de nuestro <strong>mindset</strong>.",
+      "target_de": "die Seele unserer <strong>Kultur</strong>, die Stärke unseres <strong>Mindsets</strong>."
     },
     {
       "source": "A TCC destaca-se pela sua abordagem inovadora e orientada para a excelência, destacando-se no mercado pela precisão dos seus produtos e pelo forte espírito de equipa que impulsiona cada projeto.",
