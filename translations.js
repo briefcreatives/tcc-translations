@@ -403,5 +403,119 @@ var linguJSON = {
       "target_de": "TCC investiert in die berufliche Entwicklung und das Wachstum seiner Mitarbeiter, indem es Lernmöglichkeiten und die Entwicklung von Fähigkeiten bietet, um sein Team mit den neuesten Technologien und Praktiken der Branche auf dem Laufenden zu halten."
     },
 
+    // Design, Protótipos e Pequenas Séries
+
+    {
+      "source": "Design e Engenharia de novos produtos",
+      "target_en": "Design and Engineering of new products",
+      "target_fr": "Conception et ingénierie de nouveaux produits",
+      "target_es": "Diseño e Ingeniería de nuevos productos",
+      "target_de": "Design und Ingenieurwesen neuer Produkte"
+    },
+    {
+      "source": "Podemos criar o seu molde de A a Z. A nossa equipa pode oferecer-lhe primeiro um design que corresponda às suas expectativas, combinando tecnologia e técnica.",
+      "target_en": "We can create your mold from A to Z. Our team can first offer you a design that meets your expectations, combining technology and technique.",
+      "target_fr": "Nous pouvons créer votre moule de A à Z. Notre équipe peut d'abord vous proposer un design qui répond à vos attentes, en combinant technologie et technique.",
+      "target_es": "Podemos crear su molde de la A a la Z. Nuestro equipo puede ofrecerle primero un diseño que cumpla con sus expectativas, combinando tecnología y técnica.",
+      "target_de": "Wir können Ihre Form von A bis Z erstellen. Unser Team kann Ihnen zuerst ein Design anbieten, das Ihren Erwartungen entspricht und Technologie und Technik kombiniert."
+    },
+    {
+      "source": "Investigação",
+      "target_en": "Research",
+      "target_fr": "Recherche",
+      "target_es": "Investigación",
+      "target_de": "Forschung"
+    },
+    {
+      "source": "Conceito de design",
+      "target_en": "Design concept",
+      "target_fr": "Concept de design",
+      "target_es": "Concepto de diseño",
+      "target_de": "Designkonzept"
+    },
+    {
+      "source": "Desenvolvimento do projeto",
+      "target_en": "Project development",
+      "target_fr": "Développement de projet",
+      "target_es": "Desarrollo de proyecto",
+      "target_de": "Projektentwicklung"
+    },
+    {
+      "source": "Engenharia",
+      "target_en": "Engineering",
+      "target_fr": "Ingénierie",
+      "target_es": "Ingeniería",
+      "target_de": "Ingenieurwesen"
+    },
+    {
+      "source": "Prototipagem",
+      "target_en": "Prototyping",
+      "target_fr": "Prototypage",
+      "target_es": "Prototipado",
+      "target_de": "Prototypenbau"
+    },
+    {
+      "source": "Pequenas séries",
+      "target_en": "Small series",
+      "target_fr": "Petites séries",
+      "target_es": "Pequeñas series",
+      "target_de": "Kleinserien"
+    },
+    {
+      "source": "Processo de Desenvolvimento de um novo produto",
+      "target_en": "New product development process",
+      "target_fr": "Processus de développement d'un nouveau produit",
+      "target_es": "Proceso de desarrollo de un nuevo producto",
+      "target_de": "Entwicklungsprozess eines neuen Produkts"
+    },
+    {
+      "source": "Prototipagem e Produção Rápida",
+      "target_en": "Prototyping and Rapid Production",
+      "target_fr": "Prototypage et Production Rapide",
+      "target_es": "Prototipado y Producción Rápida",
+      "target_de": "Prototypenbau und Schnellproduktion"
+    },
+    {
+      "source": "Em seguida, criamos um protótipo do molde para verificar com o nosso cliente se tudo está como ele imaginou. Ao trabalharmos em estreita colaboração com os nossos clientes, asseguramos o seu envolvimento ativo em todas as fases, garantindo resultados mais rápidos e rigorosamente alinhados com os objectivos do projeto.",
+      "target_en": "Next, we create a mold prototype to verify with our client that everything is as they envisioned. By working closely with our clients, we ensure their active involvement in all phases, guaranteeing faster results that are strictly aligned with the project objectives.",
+      "target_fr": "Ensuite, nous créons un prototype de moule pour vérifier avec notre client que tout est conforme à ce qu'il avait imaginé. En travaillant en étroite collaboration avec nos clients, nous assurons leur implication active à toutes les étapes, garantissant des résultats plus rapides et rigoureusement alignés sur les objectifs du projet.",
+      "target_es": "A continuación, creamos un prototipo del molde para verificar con nuestro cliente que todo está como él imaginó. Al trabajar en estrecha colaboración con nuestros clientes, aseguramos su participación activa en todas las fases, garantizando resultados más rápidos y estrictamente alineados con los objetivos del proyecto.",
+      "target_de": "Als nächstes erstellen wir einen Formprototyp, um mit unserem Kunden zu überprüfen, ob alles so ist, wie er es sich vorgestellt hat. Durch die enge Zusammenarbeit mit unseren Kunden stellen wir sicher, dass sie in allen Phasen aktiv beteiligt sind und schnellere Ergebnisse erzielen, die streng mit den Projektzielen übereinstimmen."
+    },
+    {
+      "source": "Produzimos as suas peças em pequenas e médias séries para garantir uma versão final perfeita.",
+      "target_en": "We produce your parts in small and medium series to ensure a perfect final version.",
+      "target_fr": "Nous produisons vos pièces en petites et moyennes séries pour garantir une version finale parfaite.",
+      "target_es": "Producimos sus piezas en series pequeñas y medianas para garantizar una versión final perfecta.",
+      "target_de": "Wir fertigen Ihre Teile in kleinen und mittleren Serien, um eine perfekte Endversion zu gewährleisten."
+    },
+    {
+      "source": "Prototipagem Rápida",
+      "target_en": "Rapid Prototyping",
+      "target_fr": "Prototypage Rapide",
+      "target_es": "Prototipado Rápido",
+      "target_de": "Schneller Prototypenbau"
+    },
+    {
+      "source": "A prototipagem testa e verifica rigorosamente o design do produto, garantindo uma estética, ergonomia e funcionalidade irrepreensíveis.",
+      "target_en": "Prototyping rigorously tests and verifies the product design, ensuring impeccable aesthetics, ergonomics, and functionality.",
+      "target_fr": "Le prototypage teste et vérifie rigoureusement le design du produit, garantissant une esthétique, une ergonomie et une fonctionnalité irréprochables.",
+      "target_es": "El prototipado prueba y verifica rigurosamente el diseño del producto, asegurando una estética, ergonomía y funcionalidad impecables.",
+      "target_de": "Das Prototyping testet und überprüft das Produktdesign gründlich und sorgt für einwandfreie Ästhetik, Ergonomie und Funktionalität."
+    },
+    {
+      "source": "Este processo eficiente ajuda a identificar as necessidades de melhoria e a corrigi-las num curto espaço de tempo para reduzir o prazo de entrega.",
+      "target_en": "This efficient process helps identify improvement needs and correct them in a short time to reduce the delivery time.",
+      "target_fr": "Ce processus efficace aide à identifier les besoins d'amélioration et à les corriger en peu de temps afin de réduire le délai de livraison.",
+      "target_es": "Este proceso eficiente ayuda a identificar las necesidades de mejora y a corregirlas en un corto período de tiempo para reducir el plazo de entrega.",
+      "target_de": "Dieser effiziente Prozess hilft, Verbesserungsbedarfe zu erkennen und sie in kurzer Zeit zu beheben, um die Lieferzeit zu verkürzen."
+    },
+    {
+      "source": "O fabrico de baixo volume é adequado para empresas que não necessitam de grandes quantidades. Garante uma entrega rápida e uma boa relação qualidade/preço. Esta etapa económica ajuda a evitar problemas futuros e valida todos os aspectos do produto final.",
+      "target_en": "Low-volume manufacturing is suitable for companies that do not require large quantities. It ensures fast delivery and a good quality/price ratio. This cost-effective step helps avoid future problems and validates all aspects of the final product.",
+      "target_fr": "La fabrication à faible volume convient aux entreprises qui n'ont pas besoin de grandes quantités. Elle garantit une livraison rapide et un bon rapport qualité/prix. Cette étape économique aide à éviter les problèmes futurs et valide tous les aspects du produit final.",
+      "target_es": "La fabricación de bajo volumen es adecuada para empresas que no necesitan grandes cantidades. Garantiza una entrega rápida y una buena relación calidad/precio. Este paso económico ayuda a evitar problemas futuros y valida todos los aspectos del producto final.",
+      "target_de": "Die Herstellung in geringen Stückzahlen ist für Unternehmen geeignet, die keine großen Mengen benötigen. Sie gewährleistet eine schnelle Lieferung und ein gutes Preis-Leistungs-Verhältnis. Dieser kosteneffiziente Schritt hilft, zukünftige Probleme zu vermeiden und validiert alle Aspekte des Endprodukts."
+    }
   ],
 };
