@@ -268,14 +268,22 @@ var linguJSON = {
       "target_fr": "Notre équipe",
       "target_es": "Nuestro equipo",
       "target_de": "Unser Team"
-    },    
+    },   
     {
-      "source": "Na <strong>TCC</strong> encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas as etapas de fabricação.",
-      "target_en": "At <strong>TCC</strong>, you will find a technical team composed of experienced designers, who, supported by CAD/CAM systems, develop mold projects and are also responsible for overseeing all manufacturing stages.",
-      "target_fr": "À <strong>TCC</strong>, vous trouverez une équipe technique composée de concepteurs expérimentés, qui, soutenus par des systèmes CAD/CAM, développent des projets de moules et sont également responsables du suivi de toutes les étapes de fabrication.",
-      "target_es": "En <strong>TCC</strong> encontrará un equipo técnico compuesto por diseñadores experimentados, que apoyados por sistemas CAD/CAM desarrollan proyectos de moldes y también son responsables del seguimiento de todas las etapas de fabricación.",
-      "target_de": "Bei <strong>TCC</strong> finden Sie ein technisches Team aus erfahrenen Designern, die unterstützt von CAD/CAM-Systemen Formprojekte entwickeln und auch für die Überwachung aller Fertigungsphasen verantwortlich sind."
+      "source": "Na",
+      "target_en": "At",
+      "target_fr": "À",
+      "target_es": "En",
+      "target_de": "Bei"
+    },   
+    {
+      "source": "encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas as etapas de fabricação.",
+      "target_en": "you will find a technical team composed of experienced designers, who, supported by CAD/CAM systems, develop mold projects and are also responsible for overseeing all manufacturing stages.",
+      "target_fr": "vous trouverez une équipe technique composée de concepteurs expérimentés, qui, soutenus par des systèmes CAD/CAM, développent des projets de moules et sont également responsables du suivi de toutes les étapes de fabrication.",
+      "target_es": "encontrará un equipo técnico compuesto por diseñadores experimentados, que apoyados por sistemas CAD/CAM desarrollan proyectos de moldes y también son responsables del seguimiento de todas las etapas de fabricación.",
+      "target_de": "inden Sie ein technisches Team aus erfahrenen Designern, die unterstützt von CAD/CAM-Systemen Formprojekte entwickeln und auch für die Überwachung aller Fertigungsphasen verantwortlich sind."
     },
+     
     {
       "source": "A nossa excelente organização permite-nos gerir projetos de grande envergadura sem descurar a qualidade, respeitando imperativamente os prazos de entrega.",
       "target_en": "Our excellent organization allows us to manage large-scale projects without neglecting quality, strictly respecting delivery deadlines.",
