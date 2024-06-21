@@ -849,5 +849,16 @@ var linguJSON = {
       target_es: "Equipos de Metrología y Control de Calidad",
       target_de: "Messtechnik und Qualitätssicherungsausrüstung",
     },
+
+    // Indústrias e Casos de Estudo
+
+    {
+      "source": "Indústrias e Casos de Estudo",
+      "target_en": "Industries and Case Studies",
+      "target_es": "Industrias y Casos de Estudio",
+      "target_de": "Branchen und Fallstudien"
+  }
+
+  
   ],
 };
