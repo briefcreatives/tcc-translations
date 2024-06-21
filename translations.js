@@ -239,14 +239,15 @@ var linguJSON = {
     },
     {
       source:
-        "Na <strong>TCC</strong> encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas as etapas de fabricação.",
+        "Na <strong>TCC</strong> encontra uma equipa técnica composta por projetistas experientes, que apoiados por sistemas CAD/CAM desenvolvem os projetos dos moldes, sendo também responsáveis pelo acompanhamento de todas a etapas de fabricação.",
       target_en:
-        "At <strong>TCC</strong>, you will find a technical team composed of experienced designers who, supported by CAD/CAM systems, develop mold projects and are also responsible for overseeing all manufacturing stages.",
-      target_fr:
-        "À la <strong>TCC</strong>, vous trouverez une équipe technique composée de concepteurs expérimentés qui, soutenus par des systèmes CAD/CAM, développent des projets de moules et sont également responsables du suivi de toutes les étapes de fabrication.",
+        "At <strong>TCC</strong>, you will find a technical team composed of experienced designers who, supported by CAD/CAM systems, develop mold projects and are also responsible for overseeing all stages of fabrication.",
       target_es:
-        "En <strong>TCC</strong> encontrará un equipo técnico compuesto por diseñadores experimentados que, apoyados por sistemas CAD/CAM, desarrollan proyectos de moldes y también son responsables del seguimiento de todas las etapas de fabricación.",
+        "En <strong>TCC</strong>, encontrarás un equipo técnico compuesto por diseñadores experimentados que, apoyados por sistemas CAD/CAM, desarrollan proyectos de moldes y también son responsables de supervisar todas las etapas de fabricación.",
+      target_fr:
+        "Chez <strong>TCC</strong>, vous trouverez une équipe technique composée de concepteurs expérimentés qui, soutenus par des systèmes CAD/CAM, développent des projets de moules et sont également responsables de superviser toutes les étapes de fabrication.",
     },
+
     {
       source:
         "A nossa excelente organização permite-nos gerir projetos de grande envergadura sem descurar a qualidade, respeitando imperativamente os prazos de entrega.",
@@ -894,6 +895,6 @@ var linguJSON = {
       target_en: "Industries",
       target_es: "Industrias",
       target_fr: "Industries",
-    }
+    },
   ],
 };
