@@ -906,5 +906,104 @@ var linguJSON = {
       target_de:
         "TCC hat ein weiteres CNC-Bearbeitungszentrum mit dem BLUM Measurement Protocol System ausgestattet, was erhebliche Verbesserungen in der Qualitätskontrolle der Bearbeitung ermöglicht.",
     },
+
+    //Contacto
+
+    {
+      source: "Dep. Administrativo",
+      target_en: "Administrative Department",
+      target_es: "Departamento Administrativo",
+      target_de: "Verwaltungsabteilung",
+    },
+    {
+      source: "Dep. Comercial",
+      target_en: "Sales Department",
+      target_es: "Departamento Comercial",
+      target_de: "Vertriebsabteilung",
+    },
+    {
+      source: "Dep. Técnico",
+      target_en: "Technical Department",
+      target_es: "Departamento Técnico",
+      target_de: "Technische Abteilung",
+    },
+    {
+      source: "Comércio Internacional, Lda",
+      target_en: "International Trade, Ltd.",
+      target_es: "Comercio Internacional, S.L.",
+      target_de: "Internationaler Handel, GmbH",
+    },
+    {
+      source: "Entre em contacto",
+      target_en: "Contact Us",
+      target_es: "Póngase en contacto",
+      target_de: "Kontaktieren Sie uns",
+    },
+    {
+      source: "Nome",
+      target_en: "Name",
+      target_es: "Nombre",
+      target_de: "Name",
+    },
+    {
+      source: "Email",
+      target_en: "Email",
+      target_es: "Correo electrónico",
+      target_de: "E-Mail",
+    },
+    {
+      source: "Assunto",
+      target_en: "Subject",
+      target_es: "Asunto",
+      target_de: "Betreff",
+    },
+    {
+      source: "Mensagem",
+      target_en: "Message",
+      target_es: "Mensaje",
+      target_de: "Nachricht",
+    },
+    {
+      source: "Enviar",
+      target_en: "Send",
+      target_es: "Enviar",
+      target_de: "Senden",
+    },
+    {
+      source: "Junta-te a nós",
+      target_en: "Join Us",
+      target_es: "Únete a nosotros",
+      target_de: "Schließe dich uns an",
+    },
+    {
+      source: "Designer de produto",
+      target_en: "Product Designer",
+      target_es: "Diseñador de productos",
+      target_de: "Produktdesigner",
+    },
+    {
+      source: "Envia o teu currículo",
+      target_en: "Send your resume",
+      target_es: "Envía tu currículum",
+      target_de: "Sende deinen Lebenslauf",
+    },
+    {
+      source: "Escolher Ficheiro",
+      target_en: "Choose File",
+      target_es: "Seleccionar Archivo",
+      target_de: "Datei auswählen",
+    },
+    {
+      source: "Subscrever",
+      target_en: "Subscribe",
+      target_es: "Suscribirse",
+      target_de: "Abonnieren",
+    },
+    {
+      source: "Indústrias",
+      target_en: "Industries",
+      target_es: "Industrias",
+      target_de: "Branchen",
+    },
   ],
 };
