@@ -853,12 +853,58 @@ var linguJSON = {
     // Indústrias e Casos de Estudo
 
     {
-      "source": "Indústrias e Casos de Estudo",
-      "target_en": "Industries and Case Studies",
-      "target_es": "Industrias y Casos de Estudio",
-      "target_de": "Branchen und Fallstudien"
-  }
+      source: "Indústrias e Casos de Estudo",
+      target_en: "Industries and Case Studies",
+      target_es: "Industrias y Casos de Estudio",
+      target_de: "Branchen und Fallstudien",
+    },
 
-  
+    //Noticias
+
+    {
+      source:
+        "Modernização do processo de Electroerosão com tecnologia de ponta",
+      target_en:
+        "Modernization of the EDM process with cutting-edge technology",
+      target_es:
+        "Modernización del proceso de electroerosión con tecnología de punta",
+      target_de: "Modernisierung des EDM-Prozesses mit Spitzentechnologie",
+    },
+    {
+      source:
+        "A TCC adquiriu recentemente um equipamento de electroerosão com a mais recente tecnologia da OPS-INGERSOLL, equipado com um controlador de última geração. A aquisição deste equipamento permite uma redução do tempo electroerosão e uma redução no desgaste de elétrodos permitindo ganhos significativos na produtividade da TCC.",
+      target_en:
+        "TCC recently acquired an EDM machine with the latest technology from OPS-INGERSOLL, equipped with a state-of-the-art controller. The acquisition of this equipment allows for a reduction in EDM time and electrode wear, resulting in significant productivity gains for TCC.",
+      target_es:
+        "TCC adquirió recientemente una máquina de electroerosión con la última tecnología de OPS-INGERSOLL, equipada con un controlador de última generación. La adquisición de este equipo permite una reducción en el tiempo de electroerosión y el desgaste de los electrodos, lo que resulta en importantes ganancias de productividad para TCC.",
+      target_de:
+        "TCC hat kürzlich eine Erodiermaschine mit der neuesten Technologie von OPS-INGERSOLL erworben, die mit einem hochmodernen Steuerungssystem ausgestattet ist. Der Erwerb dieses Geräts ermöglicht eine Verkürzung der Erodierzeit und eine Reduzierung des Elektrodenverschleißes, was zu erheblichen Produktivitätssteigerungen bei TCC führt.",
+    },
+    {
+      source:
+        "A TCC adquiriu recentemente um equipamento de electroerosão com a mais recente tecnologia da OPS-INGERSOLL, equipado com um controlador de última geração. A aquisição deste equipamento permite uma redução do tempo electroerosão e uma redução no desgaste de elétrodos permitindo ganhos significativos na produtividade da TCC.",
+      target_en:
+        "TCC recently acquired an EDM machine with the latest technology from OPS-INGERSOLL, equipped with a state-of-the-art controller. The acquisition of this equipment allows for a reduction in EDM time and electrode wear, resulting in significant productivity gains for TCC.",
+      target_es:
+        "TCC adquirió recientemente una máquina de electroerosión con la última tecnología de OPS-INGERSOLL, equipada con un controlador de última generación. La adquisición de este equipo permite una reducción en el tiempo de electroerosión y el desgaste de los electrodos, lo que resulta en importantes ganancias de productividad para TCC.",
+      target_de:
+        "TCC hat kürzlich eine Erodiermaschine mit der neuesten Technologie von OPS-INGERSOLL erworben, die mit einem hochmodernen Steuerungssystem ausgestattet ist. Der Erwerb dieses Geräts ermöglicht eine Verkürzung der Erodierzeit und eine Reduzierung des Elektrodenverschleißes, was zu erheblichen Produktivitätssteigerungen bei TCC führt.",
+    },
+    {
+      source: "Novo Sistema de Medição BLUM",
+      target_en: "New BLUM Measurement System",
+      target_es: "Nuevo Sistema de Medición BLUM",
+      target_de: "Neues BLUM-Messsystem",
+    },
+    {
+      source:
+        "A TCC equipou mais um centro de maquinação CNC com o sistema de medição BLUM Measurement Protocol o que permite melhorias significativas no controlo de qualidade da maquinação.",
+      target_en:
+        "TCC has equipped another CNC machining center with the BLUM Measurement Protocol system, which allows for significant improvements in machining quality control.",
+      target_es:
+        "TCC ha equipado otro centro de mecanizado CNC con el sistema BLUM Measurement Protocol, lo que permite mejoras significativas en el control de calidad del mecanizado.",
+      target_de:
+        "TCC hat ein weiteres CNC-Bearbeitungszentrum mit dem BLUM Measurement Protocol System ausgestattet, was erhebliche Verbesserungen in der Qualitätskontrolle der Bearbeitung ermöglicht.",
+    },
   ],
 };
