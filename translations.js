@@ -130,15 +130,13 @@ var linguJSON = {
     },
     {
       source:
-        "Conscientes da agressividade do mercado e das necessidades dos nossos clientes, procuramos as melhores e mais otimizadas soluções tendo em vista a obtenção de prazos cada vez mais curtos.",
+        "Conscientes da agressividade do mercado e das necessidades dos nossos clientes, procuramos as melhores e mais otimizadas soluções tendo em vista a obtenção de prazos cada vez mais curtos",
       target_en:
-        "Aware of the market's aggressiveness and our clients' needs, we seek the best and most optimized solutions aiming at achieving increasingly shorter deadlines.",
-      target_fr:
-        "Conscients de l'agressivité du marché et des besoins de nos clients, nous recherchons les meilleures solutions optimisées visant à atteindre des délais de plus en plus courts.",
+        "Aware of the market's competitiveness and our clients' needs, we strive to find the best and most optimized solutions to achieve increasingly shorter deadlines.",
       target_es:
-        "Conscientes de la agresividad del mercado y de las necesidades de nuestros clientes, buscamos las mejores soluciones optimizadas con el objetivo de lograr plazos cada vez más cortos.",
+        "Conscientes de la agresividad del mercado y las necesidades de nuestros clientes, buscamos las mejores y más optimizadas soluciones para obtener plazos cada vez más cortos.",
       target_de:
-        "Bewusst über die Aggressivität des Marktes und die Bedürfnisse unserer Kunden suchen wir die besten und optimierten Lösungen, um immer kürzere Fristen zu erreichen.",
+        "Bewusst von der Aggressivität des Marktes und den Bedürfnissen unserer Kunden streben wir danach, die besten und optimierten Lösungen zu finden, um immer kürzere Fristen einzuhalten.",
     },
     {
       source:
