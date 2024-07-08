@@ -1215,7 +1215,7 @@ var linguJSON = {
       target_fr: "Postuler à ce poste",
     },
      {
-      source: "Name Completo",
+      source: "Nome Completo",
       target_en: "Full Name",
       target_es: "Nombre y apellidoso",
       target_fr: "Nom Complet",
