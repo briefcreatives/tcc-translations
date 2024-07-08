@@ -692,6 +692,12 @@ var linguJSON = {
       target_fr: "Technologies de Moulage par Injection de Thermoplastiques",
     },
     {
+      source: "Tecnologias de Injeção",
+      target_en: "Injection Technologies",
+      target_es: "Tecnologías de Inyección",
+      target_fr: "Technologies d'Injection"
+    },
+    {
       source: "- Injeção 2K",
       target_en: "- Two-shot Injection Molding",
       target_es: "- Moldeo por inyección 2K",
