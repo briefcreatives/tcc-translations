@@ -1059,10 +1059,10 @@ var linguJSON = {
       target_fr: "Zone commerciale (allemand)",
     },
     {
-      source: "Visão Geral:",
-      target_en: "Overview:",
-      target_es: "Resumen:",
-      target_fr: "Vue d'ensemble :",
+      source: "<strong>Visão Geral:</strong>",
+      target_en: "<strong>Overview:</strong>",
+      target_es: "<strong>Resumen:</strong>",
+      target_fr: "<strong>Vue d'ensemble :</strong>",
     },
     {
       source: "Estamos à procura de um talentoso Comercial com conhecimentos de língua alemã para se juntar à nossa equipa de vendas. Este papel é essencial para expandir a nossa presença no mercado e fortalecer as relações com os nossos clientes de língua alemã. O candidato ideal terá uma paixão por vendas, uma compreensão profunda das dinâmicas do mercado e habilidades excecionais de comunicação.",
@@ -1071,10 +1071,10 @@ var linguJSON = {
       target_fr: "Nous recherchons un(e) assistant(e) commercial(e) talentueux(se) ayant des compétences en allemand pour rejoindre notre équipe de vente. Ce rôle est essentiel pour développer notre présence sur le marché et renforcer les relations avec nos clients germanophones. Le candidat idéal aura une passion pour la vente, une compréhension approfondie de la dynamique du marché et des compétences exceptionnelles en matière de communication.",
     },
     {
-      source: "Responsabilidades:",
-      target_en: "Responsibilities:",
-      target_es: "Responsabilidades:",
-      target_fr: "Responsabilités :",
+      source: "<strong>Responsabilidades:</strong>",
+      target_en: "<strong>Responsibilities:</strong>",
+      target_es: "<strong>Responsabilidades:</strong>",
+      target_fr: "<strong>Responsabilités :</strong>",
     },
     {
       source: "Desenvolver e manter relações fortes com clientes e parceiros de língua alemã.",
@@ -1119,10 +1119,10 @@ var linguJSON = {
       target_fr: "Participer à des foires commerciales, des conférences et des événements industriels pour représenter l'entreprise et générer de nouveaux clients potentiels.‍",
     },
     {
-      source: "Requisitos:",
-      target_en: "Requirements:",
-      target_es: "Requisitos:",
-      target_fr: "Exigences :",
+      source: "<strong>Requisitos:</strong>",
+      target_en: "<strong>Requirements:</strong>",
+      target_es: "<strong>Requisitos:</strong>",
+      target_fr: "<strong>Exigences :</strong>",
     },
       {
       source: "Experiência comprovada como Comercial ou em um papel similar.",
@@ -1167,10 +1167,10 @@ var linguJSON = {
       target_fr: "Familiarité avec les outils de gestion de la relation client et les logiciels de vente.‍",
     },
      {
-      source: "Educação e Experiência:",
-      target_en: "Education and Experience:",
-      target_es: "Formación y experiencia:",
-      target_fr: "Formation et expérience :",
+      source: "<strong>Educação e Experiência:</strong>",
+      target_en: "<strong>Education and Experience:</strong>",
+      target_es: "<strong>Formación y experiencia:</strong>",
+      target_fr: "<strong>Formation et expérience :</strong>",
     },
      {
       source: "Licenciatura em Gestão, Marketing, Comércio Internacional ou área relacionada.",
@@ -1185,10 +1185,10 @@ var linguJSON = {
       target_fr: "Une expérience préalable dans la vente internationale ou sur le marché germanophone est un avantage.‍",
     },
       {
-      source: "Benefícios:",
-      target_en: "Benefits:",
-      target_es: "Ventajas:",
-      target_fr: "Avantages :",
+      source: "<strong>Benefícios:</strong>",
+      target_en: "<strong>Benefits:</strong>",
+      target_es: "<strong>Ventajas:</strong>",
+      target_fr: "<strong>Avantages :</strong>",
     },
     {
       source: "Salário competitivo",
