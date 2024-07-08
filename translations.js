@@ -1005,6 +1005,12 @@ var linguJSON = {
       target_fr: "L'étude de cas sur le développement d'un gobelet Long Drink en plastique qui remplace le verre tout en conservant la même qualité et les mêmes caractéristiques représente une innovation significative dans le domaine des matériaux et de la conception de produits. La recherche s'est concentrée sur la création d'un matériau plastique avancé qui offre une transparence, une résistance et une sensation tactile similaires à celles du verre, mais avec l'avantage supplémentaire d'être plus léger et moins susceptible de se briser. Ce gobelet en plastique de haute qualité a été conçu pour reproduire l'expérience du verre dans diverses applications, telles que les restaurants, les bars et les environnements domestiques, tout en garantissant la même élégance et la même fonctionnalité. En outre, l'utilisation de ce nouveau matériau contribue au développement durable en réduisant la nécessité de recycler le verre et les déchets associés aux verres cassés, tout en offrant une option sûre et durable au consommateur final.",
     },
     {
+      source: "Caso de Estudo",
+      target_en: "Case Study",
+      target_es: "Caso de Estudio",
+      target_fr: "Étude de Cas"
+    },
+    {
       source: "1. Design de um novo produto",
       target_en: "1. Designing a new product",
       target_es: "1. Diseñar un nuevo producto",
@@ -1066,7 +1072,7 @@ var linguJSON = {
     },
     {
       source:"Estamos à procura de um talentoso Comercial com conhecimentos de língua alemã para se juntar à nossa equipa de vendas. Este papel é essencial para expandir a nossa presença no mercado e fortalecer as relações com os nossos clientes de língua alemã. O candidato ideal terá uma paixão por vendas, uma compreensão profunda das dinâmicas do mercado e habilidades excecionais de comunicação.",
-      target_en: "We are looking for a talented salesperson with German language skills to join our sales team. This role is essential for expanding our market presence and strengthening relationships with our German-speaking customers. The ideal candidate will have a passion for sales, a deep understanding of market dynamics and exceptional communication skills.",
+      target_en: "We are looking for a tal  ented salesperson with German language skills to join our sales team. This role is essential for expanding our market presence and strengthening relationships with our German-speaking customers. The ideal candidate will have a passion for sales, a deep understanding of market dynamics and exceptional communication skills.",
       target_es: "Buscamos un asistente comercial con talento y conocimientos de alemán para unirse a nuestro equipo de ventas. Este puesto es esencial para ampliar nuestra presencia en el mercado y reforzar las relaciones con nuestros clientes de habla alemana. El candidato ideal tendrá pasión por las ventas, un profundo conocimiento de la dinámica del mercado y unas excepcionales dotes de comunicación.",
       target_fr: "Nous recherchons un(e) assistant(e) commercial(e) talentueux(se) ayant des compétences en allemand pour rejoindre notre équipe de vente. Ce rôle est essentiel pour développer notre présence sur le marché et renforcer les relations avec nos clients germanophones. Le candidat idéal aura une passion pour la vente, une compréhension approfondie de la dynamique du marché et des compétences exceptionnelles en matière de communication.",
     },
