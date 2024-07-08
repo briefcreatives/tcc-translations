@@ -1226,11 +1226,5 @@ var linguJSON = {
       target_es: "Número de contacto*",
       target_fr: "Numéro de contact*",
     },
-     {
-      source: "Numero para contacto*",
-      target_en: "Contact number*",
-      target_es: "Número de contacto*",
-      target_fr: "Numéro de contact*",
-    },
   ],
 };
