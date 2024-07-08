@@ -1215,16 +1215,16 @@ var linguJSON = {
       target_fr: "Postuler à ce poste",
     },
      {
-      source: "Name Completo*",
-      target_en: "Full Name*",
+      source: "Name Completo",
+      target_en: "Full Name",
       target_es: "Nombre y apellidoso",
-      target_fr: "Nom Complet*",
+      target_fr: "Nom Complet",
     },
     {
-      source: "Numero para contacto*",
-      target_en: "Contact number*",
-      target_es: "Número de contacto*",
-      target_fr: "Numéro de contact*",
+      source: "Numero para contacto",
+      target_en: "Contact number",
+      target_es: "Número de contacto",
+      target_fr: "Numéro de contact",
     },
   ],
 };
