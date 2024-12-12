@@ -491,10 +491,10 @@ var linguJSON = {
         "Producimos sus piezas en series pequeñas y medianas para garantizar una versión final perfecta.",
     },
     {
-      source: "Prototipagem Rápida",
-      target_en: "Rapid Prototyping",
-      target_fr: "Prototypage Rapide",
-      target_es: "Prototipado Rápido",
+      source: "Prototipagem",
+      target_en: "Prototyping",
+      target_fr: "Prototypage",
+      target_es: "Prototipado",
     },
     {
       source:
@@ -517,10 +517,10 @@ var linguJSON = {
         "Este proceso eficiente ayuda a identificar las necesidades de mejora y a corregirlas en un corto período de tiempo para reducir el plazo de entrega.",
     },
     {
-      source: "Produção Rápida",
-      target_en: "Rapid Production",
-      target_fr: "Production Rapide",
-      target_es: "Producción Rápida",
+      source: "Pequenas Séries",
+      target_en: "Small Series",
+      target_fr: "Pré-série",
+      target_es: "Serie corta",
     },
     {
       source:
@@ -595,15 +595,15 @@ var linguJSON = {
     },
 
     {
-      source: "Injeção 2K",
-      target_en: "Two-component Injection Molding",
+      source: "- Injeção 2K (bimatéria)",
+      target_en: "2K Injection Moulding",
       target_es: "Moldeo por inyección de dos componentes",
       target_fr: "Moulage par injection à deux composants",
     },
 
     {
-      source: "Incertos Metálicos no Molde",
-      target_en: "Metal Inserts in Mold",
+      source: "- Insertos Metálicos",
+      target_en: "Metal Insert Moulding",
       target_es: "Insertos metálicos en el molde",
       target_fr: "Inserts métalliques dans le moule",
     },
@@ -614,20 +614,14 @@ var linguJSON = {
       target_fr: "Ingénierie inverse",
     },
     {
-      source: "Injeção IMA",
-      target_en: "In-Mold Assembly",
-      target_es: "Ensamblaje en molde",
-      target_fr: "Assemblage en moule",
-    },
-    {
-      source: "Injeção com assemblagem",
-      target_en: "Injection with Assembly",
+      source: "- Engenharia IMA",
+      target_en: "In-Moulding Assembly",
       target_es: "Inyección con ensamblaje",
       target_fr: "Injection avec assemblage",
     },
     {
-      source: "Sobremoldagem Gas Assisted Injection",
-      target_en: "Gas Assisted Injection Molding",
+      source: "Injeção assistida a gás",
+      target_en: "Gas Assisted Injection Moulding",
       target_es: "Moldeo por inyección asistida por gas",
       target_fr: "Moulage par injection assistée au gaz",
     },
@@ -742,6 +736,12 @@ var linguJSON = {
       target_en: "Metrology and Quality Control Equipment",
       target_es: "Equipos de Metrología y Control de Calidad",
       target_fr: "Équipements de Métrologie et de Contrôle Qualité",
+    },
+    {
+      source: "CMM Controlo Dimensional",
+      target_en: "CMM Dimensional Control",
+      target_es: "Control dimensional de MMC",
+      target_fr: "Contrôle dimensionnel CMM",
     },
 
     // Indústrias e Casos de Estudo
