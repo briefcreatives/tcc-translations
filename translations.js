@@ -699,13 +699,13 @@ var linguJSON = {
     },
     {
       source: "- Injeção 2K",
-      target_en: "- Two-shot Injection Molding",
+      target_en: "- 2K Injection Moulding",
       target_es: "- Moldeo por inyección 2K",
       target_fr: "- Moulage par Injection 2K",
     },
     {
       source: "- Incertos Metálicos no Molde",
-      target_en: "- Metal Inserts in Mold",
+      target_en: "- Metal Insert Moulding",
       target_es: "- Insertos metálicos en molde",
       target_fr: "- Inserts Métalliques dans le Moule",
     },
@@ -729,7 +729,7 @@ var linguJSON = {
     },
     {
       source: "- Sobremoldagem Gas Assisted Injection",
-      target_en: "- Gas Assisted Injection Molding",
+      target_en: "- Gas Assisted Injection Moulding",
       target_es: "- Moldeo por inyección asistida con gas",
       target_fr: "- Moulage par Injection Assistée au Gaz",
     },
@@ -743,7 +743,7 @@ var linguJSON = {
       source:
         "A nossa oficina está equipada com 6 centros de maquinagem de fresagem CNC, 2 centros de maquinagem EDM de afundamento, 1 centro de maquinagem EDM de fio e máquinas de perfuração e retificação. Estas ferramentas renovadas regularmente garantem a eficácia e a qualidade dos moldes produzidos.",
       target_en:
-        "Our workshop is equipped with 6 CNC milling machining centers, 2 sinker EDM machining centers, 1 wire EDM machining center, and drilling and grinding machines. These tools are regularly upgraded to ensure the effectiveness and quality of the molds produced.",
+        "Our shopfloor is equipped with 6 CNC milling machining centers, 2 sinker EDM machining centers, 1 wire EDM machining center, and drilling and grinding machines. These tools are regularly upgraded to ensure the effectiveness and quality of the molds produced.",
       target_es:
         "Nuestro taller está equipado con 6 centros de mecanizado fresadora CNC, 2 centros de mecanizado de hundimiento EDM, 1 centro de mecanizado de hilo EDM y máquinas de taladrado y rectificado. Estas herramientas se renuevan regularmente para garantizar la eficacia y la calidad de los moldes producidos.",
       target_fr:
