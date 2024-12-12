@@ -680,14 +680,8 @@ var linguJSON = {
       target_fr: "Normes de référence",
     },
     {
-      source: "ISO 9001 (em implementação)",
-      target_en: "ISO 9001 (under implementation)",
-      target_es: "ISO 9001 (en implementación)",
-      target_fr: "ISO 9001 (en cours d'implémentation)",
-    },
-    {
       source: "Tecnologias de Injeção de Termoplásticos",
-      target_en: "Thermoplastic Injection Molding Technologies",
+      target_en: "Thermoplastic Injection Moulding Technologies",
       target_es: "Tecnologías de Moldeo por Inyección de Termoplásticos",
       target_fr: "Technologies de Moulage par Injection de Thermoplastiques",
     },
