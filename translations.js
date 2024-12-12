@@ -698,13 +698,13 @@ var linguJSON = {
       target_fr: "Technologies d'Injection"
     },
     {
-      source: "- Injeção 2K",
+      source: "- Injeção 2K (bimatéria)",
       target_en: "- 2K Injection Moulding",
       target_es: "- Moldeo por inyección 2K",
       target_fr: "- Moulage par Injection 2K",
     },
     {
-      source: "- Incertos Metálicos no Molde",
+      source: "- Insertos Metálicos",
       target_en: "- Metal Insert Moulding",
       target_es: "- Insertos metálicos en molde",
       target_fr: "- Inserts Métalliques dans le Moule",
@@ -716,19 +716,13 @@ var linguJSON = {
       target_fr: "- Ingénierie Inverse",
     },
     {
-      source: "- Injeção IMA",
-      target_en: "- In-Mold Assembly",
-      target_es: "- Ensamblaje en molde",
-      target_fr: "- Assemblage en Moule",
-    },
-    {
-      source: "- Injeção com assemblagem",
+      source: "- Engenharia IMA",
       target_en: "- Injection with Assembly",
       target_es: "- Inyección con ensamblaje",
       target_fr: "- Injection avec Assemblage",
     },
     {
-      source: "- Sobremoldagem Gas Assisted Injection",
+      source: "- Injeção assistida a gás",
       target_en: "- Gas Assisted Injection Moulding",
       target_es: "- Moldeo por inyección asistida con gas",
       target_fr: "- Moulage par Injection Assistée au Gaz",
