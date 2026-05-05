@@ -791,6 +791,42 @@ var linguJSON = {
       target_fr:
         "TCC a équipé un autre centre d'usinage CNC avec le système BLUM Measurement Protocol, ce qui permet des améliorations significatives dans le contrôle qualité de l'usinage.",
     },
+     {
+      source: "A TCC reforça a sua capacidade produtiva e tecnológica",
+      target_en: "TCC is expanding its production and technological capabilities",
+      target_es: "TCC refuerza su capacidad productiva y tecnológica",
+      target_fr: "TCC renforce ses capacités de production et technologiques",
+    },
+    {
+      source:
+        "Estes novos equipamentos de última geração permitem à TCC executar projetos técnicos de maior complexidade, com elevados requisitos de precisão e qualidade superficial, alargando substancialmente o leque de soluções que coloca ao serviço dos seus clientes. A tecnologia de 5 eixos possibilita operações mais eficientes, maior rigor dimensional e redução significativa de intervenções manuais.",
+      target_en:
+        "This new state-of-the-art equipment enables TCC to undertake more complex technical projects with stringent requirements for precision and surface quality, substantially expanding the range of solutions it offers its customers. The 5-axis technology allows for more efficient operations, greater dimensional accuracy, and a significant reduction in manual intervention.",
+      target_es:
+        "Estos nuevos equipos de última generación permiten a TCC llevar a cabo proyectos técnicos de mayor complejidad, con elevados requisitos de precisión y calidad superficial, ampliando considerablemente la gama de soluciones que pone al servicio de sus clientes. La tecnología de 5 ejes permite realizar operaciones más eficientes, ofrece una mayor precisión dimensional y reduce significativamente las intervenciones manuales.",
+      target_fr:
+        "Ces nouveaux équipements de pointe permettent à TCC de mener à bien des projets techniques plus complexes, exigeant une grande précision et une excellente qualité de surface, élargissant ainsi considérablement la gamme de solutions qu'elle propose à ses clients. La technologie à 5 axes permet des opérations plus efficaces, une plus grande précision dimensionnelle et une réduction significative des interventions manuelles.",
+    },
+    {
+      source:
+        "Com este investimento, a TCC garante melhor qualidade final, redução dos tempos de execução e maior fiabilidade nos prazos de entrega, reforçando a sua competitividade nos mercados mais exigentes e a confiança dos seus parceiros internacionais.",
+      target_en:
+        "With this investment, TCC ensures higher final quality, shorter turnaround times, and more reliable delivery schedules, thereby strengthening its competitiveness in the most demanding markets and the trust of its international partners.",
+      target_es:
+        "Con esta inversión, TCC garantiza una mejor calidad final, una reducción de los tiempos de ejecución y una mayor fiabilidad en los plazos de entrega, lo que refuerza su competitividad en los mercados más exigentes y la confianza de sus socios internacionales.",
+      target_fr:
+        "Grâce à cet investissement, TCC garantit une meilleure qualité finale, une réduction des délais d'exécution et une plus grande fiabilité dans le respect des délais de livraison, renforçant ainsi sa compétitivité sur les marchés les plus exigeants et la confiance de ses partenaires internationaux.",
+    },
+    {
+      source:
+        "A aposta contínua em equipamentos avançados reflete ocompromisso da TCC com a inovação, a melhoria contínua e a criação de valor sustentável para os seus clientes.",
+      target_en:
+        "TCC’s ongoing investment in advanced equipment reflects its commitment to innovation, continuous improvement, and the creation of sustainable value for its customers.",
+      target_es:
+        "La apuesta constante por equipos avanzados refleja el compromiso de TCC con la innovación, la mejora continua y la creación de valor sostenible para sus clientes.",
+      target_fr:
+        "L'investissement constant dans des équipements de pointe témoigne de l'engagement de TCC en faveur de l'innovation, de l'amélioration continue et de la création de valeur durable pour ses clients.",
+    },
 
     //Contacto
 
