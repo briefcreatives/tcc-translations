@@ -808,15 +808,15 @@ var linguJSON = {
         "Ces nouveaux équipements de pointe permettent à TCC de mener à bien des projets techniques plus complexes, exigeant une grande précision et une excellente qualité de surface, élargissant ainsi considérablement la gamme de solutions qu'elle propose à ses clients. La technologie à 5 axes permet des opérations plus efficaces, une plus grande précision dimensionnelle et une réduction significative des interventions manuelles.",
     },
     {
-      source:
-        "Com este investimento, a TCC garante melhor qualidade final, redução dos tempos de execução e maior fiabilidade nos prazos de entrega, reforçando a sua competitividade nos mercados mais exigentes e a confiança dos seus parceiros internacionais.",
-      target_en:
-        "With this investment, TCC ensures higher final quality, shorter turnaround times, and more reliable delivery schedules, thereby strengthening its competitiveness in the most demanding markets and the trust of its international partners.",
-      target_es:
-        "Con esta inversión, TCC garantiza una mejor calidad final, una reducción de los tiempos de ejecución y una mayor fiabilidad en los plazos de entrega, lo que refuerza su competitividad en los mercados más exigentes y la confianza de sus socios internacionales.",
-      target_fr:
-        "Grâce à cet investissement, TCC garantit une meilleure qualité finale, une réduction des délais d'exécution et une plus grande fiabilité dans le respect des délais de livraison, renforçant ainsi sa compétitivité sur les marchés les plus exigeants et la confiance de ses partenaires internationaux.",
-    },
+  source:
+    "Com este investimento, a TCC garante <strong>melhor qualidade final</strong>, <strong>redução dos tempos de execução</strong> e <strong>maior fiabilidade nos prazos de entrega</strong>, reforçando a sua competitividade nos mercados mais exigentes e a confiança dos seus parceiros internacionais.",
+  target_en:
+    "With this investment, TCC ensures <strong>higher final quality</strong>, <strong>shorter turnaround times</strong>, and <strong>more reliable delivery schedules</strong>, thereby strengthening its competitiveness in the most demanding markets and the trust of its international partners.",
+  target_es:
+    "Con esta inversión, TCC garantiza una <strong>mejor calidad final</strong>, una <strong>reducción de los tiempos de ejecución</strong> y una <strong>mayor fiabilidad en los plazos de entrega</strong>, lo que refuerza su competitividad en los mercados más exigentes y la confianza de sus socios internacionales.",
+  target_fr:
+    "Grâce à cet investissement, TCC garantit une <strong>meilleure qualité finale</strong>, une <strong>réduction des délais d'exécution</strong> et une <strong>plus grande fiabilité dans le respect des délais de livraison</strong>, renforçant ainsi sa compétitivité sur les marchés les plus exigeants et la confiance de ses partenaires internationaux.",
+},
     {
       source:
         "A aposta contínua em equipamentos avançados reflete ocompromisso da TCC com a inovação, a melhoria contínua e a criação de valor sustentável para os seus clientes.",
