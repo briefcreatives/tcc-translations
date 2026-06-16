@@ -1269,10 +1269,10 @@ var linguJSON = {
       target_fr: "Gérer, maintenir et améliorer le <strong>Système de Gestion de la Qualité</strong>;",
     },
 {
-  source: 'Garantir o cumprimento dos requisitos da <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> e dos procedimentos internos;',
-  target_en: 'Ensure compliance with the requirements of <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> and internal procedures;',
-  target_es: 'Garantizar el cumplimiento de los requisitos de la norma <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> y de los procedimientos internos;',
-  target_fr: 'Veiller au respect des exigences de la norme <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> et des procédures internes;',
+  source: "Garantir o cumprimento dos requisitos da ISO9001:2015 e dos procedimentos internos;",
+  target_en: "Ensure compliance with the requirements of ISO9001:2015 and internal procedures;",
+  target_es: "Garantizar el cumplimiento de los requisitos de la norma ISO9001:2015 y de los procedimientos internos;",
+  target_fr: "Veiller au respect des exigences de la norme ISO9001:2015 et des procédures internes;",
 },
     {
       source: "Planear e acompanhar auditorias internas e externas;",
@@ -1387,10 +1387,10 @@ var linguJSON = {
   target_fr: "Si vous recherchez un nouveau défi professionnel et souhaitez rejoindre une entreprise fortement axée sur l'excellence et l'amélioration continue, envoyez-nous votre candidature.",
 },
 {
-  source: "Candidaturas: <strong>TCC – Comércio Internacional, Lda.</strong> – info@tcc.pt",
-  target_en: "Applications: <strong>TCC – Comércio Internacional, Ltd.</strong> – info@tcc.pt",
-  target_es: "Candidaturas: <strong>TCC – Comércio Internacional, S.L.</strong> – info@tcc.pt",
-  target_fr: "Candidatures : <strong>TCC – Comércio Internacional, Lda.</strong> – info@tcc.pt",
+  source: "<strong>Candidaturas:</strong> TCC – Comércio Internacional, Lda. – info@tcc.pt",
+  target_en: "<strong>Applications:</strong> TCC – Comércio Internacional, Ltd. – info@tcc.pt",
+  target_es: "<strong>Candidaturas:</strong> TCC – Comércio Internacional, S.L. – info@tcc.pt",
+  target_fr: "<strong>Candidatures:</strong> TCC – Comércio Internacional, Lda. – info@tcc.pt",
 },
     {
       source: "Candidate-se a esta posição",
