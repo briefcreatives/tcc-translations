@@ -1268,11 +1268,11 @@ var linguJSON = {
       target_es: "Gestionar, mantener y mejorar el <strong>Sistema de Gestión de la Calidad</strong>;",
       target_fr: "Gérer, maintenir et améliorer le <strong>Système de Gestion de la Qualité</strong>;",
     },
-   {
-  source: 'Garantir o cumprimento dos requisitos da norma <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> e dos procedimentos internos;',
-  target_en: 'Ensure compliance with the requirements of <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> and internal procedures;',
-  target_es: 'Garantizar el cumplimiento de los requisitos de la norma <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> y de los procedimientos internos;',
-  target_fr: 'Veiller au respect des exigences de la norme <a href="https://www.certipedia.com/quality_marks/9000037321" target="_blank">ISO9001:2015</a> et des procédures internes;'
+ {
+  source: 'Garantir o cumprimento dos requisitos da ISO9001:2015 e dos procedimentos internos;',
+  target_en: 'Ensure compliance with the requirements of ISO9001:2015 and internal procedures;',
+  target_es: 'Garantizar el cumplimiento de los requisitos de la norma ISO9001:2015 y de los procedimientos internos;',
+  target_fr: 'Veiller au respect des exigences de la norme ISO9001:2015 et des procédures internes;',
 },
     {
       source: "Planear e acompanhar auditorias internas e externas;",
