@@ -1387,10 +1387,16 @@ var linguJSON = {
   target_fr: "Si vous recherchez un nouveau défi professionnel et souhaitez rejoindre une entreprise fortement axée sur l'excellence et l'amélioration continue, envoyez-nous votre candidature.",
 },
 {
-  source: "<strong>Candidaturas:</strong> TCC – Comércio Internacional, Lda. – info@tcc.pt",
-  target_en: "<strong>Applications:</strong> TCC – Comércio Internacional, Ltd. – info@tcc.pt",
-  target_es: "<strong>Candidaturas:</strong> TCC – Comércio Internacional, S.L. – info@tcc.pt",
-  target_fr: "<strong>Candidatures:</strong> TCC – Comércio Internacional, Lda. – info@tcc.pt",
+  source: "Candidaturas:",
+  target_en: "Applications:",
+  target_es: "Candidaturas:",
+  target_fr: "Candidatures:",
+},
+{
+  source: "TCC – Comércio Internacional, Lda. – info@tcc.pt",
+  target_en: "TCC – Comércio Internacional, Lda. – info@tcc.pt",
+  target_es: "TCC – Comércio Internacional, Lda. – info@tcc.pt",
+  target_fr: "TCC – Comércio Internacional, Lda. – info@tcc.pt",
 },
     {
       source: "Candidate-se a esta posição",
