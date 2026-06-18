@@ -1298,29 +1298,24 @@ var linguJSON = {
       target_es: "Gestionar los incumplimientos, aplicar medidas correctivas y preventivas y supervisar su eficacia;",
       target_fr: "Traiter les non-conformités, mettre en œuvre des mesures correctives et préventives et en suivre l'efficacité;",
     },
+    
 {
   source: "Apoiar os diferentes departamentos na melhoria de processos e na consolidação de uma cultura de qualidade;",
-  target_en: "Support different departments in process improvement and in strengthening a quality culture;",
+  target_en: "Support different departments in process improvement and in fostering a quality culture;",
   target_es: "Apoyar a los diferentes departamentos en la mejora de procesos y en la consolidación de una cultura de calidad;",
   target_fr: "Soutenir les différents départements dans l'amélioration des processus et la consolidation d'une culture de la qualité;",
 },
 {
   source: "Gerir e validar processos de controlo dimensional e metrologia (CMM, instrumentos de medição convencionais e ensaios);",
-  target_en: "Manage and validate dimensional control and metrology processes (CMM, conventional measuring instruments, and testing);",
-  target_es: "Gestionar y validar procesos de control dimensional y metrología (CMM, instrumentos de medición convencionales y ensayos);",
-  target_fr: "Gérer et valider les processus de contrôle dimensionnel et de métrologie (CMM, instruments de mesure conventionnels et essais);",
+  target_en: "Manage and validate dimensional control and metrology processes;",
+  target_es: "Gestionar y validar los procesos de control dimensional y metrología;",
+  target_fr: "Gérer et valider les processus de contrôle dimensionnel et de métrologie;",
 },
 {
   source: "Definir planos de controlo, critérios de aceitação e assegurar a calibração dos equipamentos de medição;",
   target_en: "Define control plans, acceptance criteria, and ensure the calibration of measuring equipment;",
   target_es: "Definir planes de control, criterios de aceptación y garantizar la calibración de los equipos de medición;",
   target_fr: "Définir les plans de contrôle, les critères d'acceptation et assurer l'étalonnage des équipements de mesure;",
-},
-{
-  source: "Analisar relatórios dimensionais e garantir a conformidade dos moldes e componentes produzidos.",
-  target_en: "Analyse dimensional reports and ensure the conformity of produced moulds and components.",
-  target_es: "Analizar los informes dimensionales y garantizar la conformidad de los moldes y componentes producidos.",
-  target_fr: "Analyser les rapports dimensionnels et garantir la conformité des moules et composants produits.",
 },
     {
       source: "Apoiar os diferentes departamentos na melhoria de processos e na consolidação de uma cultura de qualidade.",
