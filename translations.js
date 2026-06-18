@@ -1298,6 +1298,30 @@ var linguJSON = {
       target_es: "Gestionar los incumplimientos, aplicar medidas correctivas y preventivas y supervisar su eficacia;",
       target_fr: "Traiter les non-conformités, mettre en œuvre des mesures correctives et préventives et en suivre l'efficacité;",
     },
+{
+  source: "Apoiar os diferentes departamentos na melhoria de processos e na consolidação de uma cultura de qualidade;",
+  target_en: "Support different departments in process improvement and in strengthening a quality culture;",
+  target_es: "Apoyar a los diferentes departamentos en la mejora de procesos y en la consolidación de una cultura de calidad;",
+  target_fr: "Soutenir les différents départements dans l'amélioration des processus et la consolidation d'une culture de la qualité;",
+},
+{
+  source: "Gerir e validar processos de controlo dimensional e metrologia (CMM, instrumentos de medição convencionais e ensaios);",
+  target_en: "Manage and validate dimensional control and metrology processes (CMM, conventional measuring instruments, and testing);",
+  target_es: "Gestionar y validar procesos de control dimensional y metrología (CMM, instrumentos de medición convencionales y ensayos);",
+  target_fr: "Gérer et valider les processus de contrôle dimensionnel et de métrologie (CMM, instruments de mesure conventionnels et essais);",
+},
+{
+  source: "Definir planos de controlo, critérios de aceitação e assegurar a calibração dos equipamentos de medição;",
+  target_en: "Define control plans, acceptance criteria, and ensure the calibration of measuring equipment;",
+  target_es: "Definir planes de control, criterios de aceptación y garantizar la calibración de los equipos de medición;",
+  target_fr: "Définir les plans de contrôle, les critères d'acceptation et assurer l'étalonnage des équipements de mesure;",
+},
+{
+  source: "Analisar relatórios dimensionais e garantir a conformidade dos moldes e componentes produzidos.",
+  target_en: "Analyse dimensional reports and ensure the conformity of produced moulds and components.",
+  target_es: "Analizar los informes dimensionales y garantizar la conformidad de los moldes y componentes producidos.",
+  target_fr: "Analyser les rapports dimensionnels et garantir la conformité des moules et composants produits.",
+},
     {
       source: "Apoiar os diferentes departamentos na melhoria de processos e na consolidação de uma cultura de qualidade.",
       target_en: "Support the various departments in improving processes and fostering a culture of quality.",
@@ -1325,6 +1349,18 @@ var linguJSON = {
  target_en: "Strong knowledge of quality management systems and the <strong>ISO9001</strong> standard;",
  target_es: "Conocimientos sólidos de sistemas de gestión de la calidad y de la norma <strong>ISO9001</strong>;",
  target_fr: "Solides connaissances des systèmes de gestion de la qualité et de la norme <strong>ISO9001</strong>;",
+},
+{
+  source: "Conhecimentos em metrologia dimensional, leitura e interpretação de desenhos técnicos e tolerâncias (GD&T valorizado);",
+  target_en: "Knowledge of dimensional metrology, reading and interpretation of technical drawings and tolerances (GD&T is an asset);",
+  target_es: "Conocimientos en metrología dimensional, lectura e interpretación de planos técnicos y tolerancias (se valorará experiencia en GD&T);",
+  target_fr: "Connaissances en métrologie dimensionnelle, lecture et interprétation des dessins techniques et des tolérances (la maîtrise du GD&T est un atout);",
+},
+{
+  source: "Experiência com equipamentos de medição (CMM, braços de medição, projetores de perfil, etc.);",
+  target_en: "Experience with measuring equipment (CMM, measuring arms, profile projectors, etc.);",
+  target_es: "Experiencia con equipos de medición (CMM, brazos de medición, proyectores de perfiles, etc.);",
+  target_fr: "Expérience avec les équipements de mesure (CMM, bras de mesure, projecteurs de profil, etc.);",
 },
 {
   source: "Capacidade de análise, organização e orientação para a melhoria contínua;",
